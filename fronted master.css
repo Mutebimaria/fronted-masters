@@ -1,0 +1,70 @@
+.brown-div{
+    background-color: rgb(71,23,9);
+}
+.brown-div{
+    display: flex;
+    justify-content: space-between;
+    /*padding: 2px,4px,0px,10px;*/
+    border-bottom: 15px solid orangered;
+
+}
+ul{
+    display: flex;
+    list-style: none;
+}
+li{
+    padding-right: 20px;
+    color: white;
+    font-size: 20px;
+}
+.bottom{
+    background-color: red;
+    color: white;
+    margin-right: 15px;   
+}
+
+.check{
+    margin-top: 25px;
+}
+.checkbox{
+    display: flex;
+    padding: 20px;
+    
+
+}
+.login{
+    margin-left: 500px;
+    display: flex;
+
+}
+.button1{
+    background-color: red;
+    color: white;
+font-size: 15px;
+padding: 13px;
+border-radius: 20px;
+
+}
+.form{
+    background-color: rgb(44, 39, 39);
+    padding: 40px;
+    justify-content: center;
+    
+}
+h4{
+    color: white;
+}
+.lowerdiv{
+    background-color: black;
+    padding: 50px;
+    padding-right: 20px;
+    justify-content: left;
+    display: flex;
+}
+.button2{
+    background-color: red;
+    color: white;
+font-size: 15px;
+padding: 13px;
+border-radius: 20px;
+}
